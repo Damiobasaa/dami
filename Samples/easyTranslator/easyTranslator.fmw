@@ -1,6 +1,6 @@
 #! <?xml version="1.0" encoding="UTF-8" ?>
 #! <WORKSPACE
-#    Command line to run this workspace:
+#    Command line to run this wottrkspace:
 #        fme.exe easyTranslator.fmw
 #          --SourceDataset_GENERIC ""
 #          --SourceFormat "GUESS_FROM_EXTENSION"
